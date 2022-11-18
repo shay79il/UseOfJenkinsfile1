@@ -1,0 +1,5 @@
+version: "3"
+services:
+  myapp:
+    build: .
+    image: "shay79il:sample-app"
