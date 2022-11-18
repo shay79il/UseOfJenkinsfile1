@@ -1,5 +1,5 @@
-version: "3"
+version: "3.9"
 services:
   myapp:
     build: .
-    image: "shay79il:sample-app"
+    image: "shay79il/sample-app"
